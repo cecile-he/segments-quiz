@@ -27,6 +27,6 @@ This questionnaire was designed to help industrious people choose a business dir
 
 **Reserve**
 
-**Hoard**
+**Cache**
 
 **Amass**
