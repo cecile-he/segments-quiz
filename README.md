@@ -19,4 +19,14 @@ The implementation of external JSON files allows for an easier updating process,
 
 ## About This Quiz ##
 
-This questionnaire was designed to help industrious people choose a business direction that will meet their needs by matching their financial situation to the profile of one of five industry portfolios. 
+This questionnaire was designed to help industrious people choose a business direction that will meet their needs, by matching their financial situation to the profile of one of five industry portfolios:
+
+**Collect**
+
+**Stock**
+
+**Reserve**
+
+**Hoard**
+
+**Amass**
