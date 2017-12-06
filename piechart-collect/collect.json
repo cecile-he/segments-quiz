@@ -1,0 +1,50 @@
+// Segments - Collect Portfolio
+
+{
+	"heading": "Objective",
+
+	"description": "Muffin croissant tiramisu apple pie chocolate bar tiramisu powder. Lollipop chupa chups jelly-o. Oat cake bonbon brownie carrot cake. Gummi bears apple pie gummies chupa chups bonbon lollipop jelly. Cupcake fruitcake tootsie roll. Gingerbread fruitcake cake jelly beans oat cake. Sweet roll gummies dessert liquorice cheesecake. Tiramisu danish gummi bears liquorice dragée sweet brownie. Tiramisu croissant jujubes candy canes. Candy canes chocolate cotton candy sugar plum caramels powder.",
+
+	"title": "Breakdown",
+
+	"piechart": [
+		{
+			"label": "First",
+			"value": 13,
+			"colour": "#ffb3ba",
+			"funds": [
+				"13% Fund A"
+			]
+		},
+		{
+			"label": "Second",
+			"value": 15,
+			"colour": "#ffdfba",
+			"funds": [
+				"15% Fund B"
+			]
+		},
+		{
+			"label": "Third",
+			"value": 16,
+			"colour": "#ffffba",
+			"funds": [
+				"16% Fund C"
+			]
+		},
+		{
+			"label": "Fourth",
+			"value": 56,
+			"colour": "#baffc9",
+			"funds": [
+				"21% Fund D", 
+				"23% Fund E",
+				"6% Fund F",
+				"6% Fund G"
+			]
+		}
+	]
+}
+
+
+//https://api.myjson.com/bins/1byb4f
