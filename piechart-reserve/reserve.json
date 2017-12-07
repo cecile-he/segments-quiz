@@ -1,0 +1,70 @@
+// Segments - Stock Portfolio
+
+{
+	"heading": "Objective",
+
+	"description": "Bonbon pudding sugar plum topping cake. Dragée soufflé tiramisu icing dessert cake fruitcake bear claw cake. Halvah dragée danish sugar plum sweet roll cupcake. ",
+
+	"title": "Breakdown",
+
+	"piechart": [
+		{
+			"label": "First",
+			"value": 13,
+			"colour": "#ffb3ba",
+			"funds": [
+				"5% Fund A",
+				"6% Fund B",
+				"1% Fund C",
+				"1% Fund D"
+			]
+		},
+		{
+			"label": "Second",
+			"value": 24,
+			"colour": "#ffdfba",
+			"funds": [
+				"8% Fund E",
+				"5% Fund F",
+				"1% Fund G",
+				"4% Fund H",
+				"1% Fund I",
+				"1% Fund J",
+				"2% Fund K",
+				"1% Fund L",
+				"1% Fund M"
+			]
+		},
+		{
+			"label": "Third",
+			"value": 11,
+			"colour": "#ffffba",
+			"funds": [
+				"11% Fund N"
+			]
+		},
+		{
+			"label": "Fourth",
+			"value": 44,
+			"colour": "#baffc9",
+			"funds": [
+				"27% Fund O",
+				"9% Fund P",
+				"4% Fund Q",
+				"4% Fund R"
+			]
+		},
+		{
+			"label": "Fifth",
+			"value": 8,
+			"colour": "#bae1ff",
+			"funds": [
+				"8% Fund S"
+			]
+		}
+
+	]
+}
+
+//https://api.myjson.com/bins/y0za7
+
