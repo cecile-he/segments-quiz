@@ -4,12 +4,11 @@
 
 ### Problem Space ###
 
-The original (and current) Segments Quiz was built as a flash player, rendering its updating process and maintenance both expensive and inconvenient. 
-This project was created as a stand-in for the current quiz.
+Projects built in flash are difficult to update and maintain due to limited code accessibility, and very expensive licensing/development fees. Adobe announced recently that it will completely seize all support and distrubition of Flash come 2020.
 
 ### Our Goal ###
 
-Re-create the Segments Quiz using resources that cut third-party maintenance costs by making it accessible and easy to update regularly, without sacrificing any of its original functionality. 
+Re-create the Flash version using resources that cut third-party maintenance costs by making it accessible and easy to update regularly, without sacrificing any of its original functionality. 
 
 ### Our Solution ###
 
